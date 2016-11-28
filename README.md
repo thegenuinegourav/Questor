@@ -2,6 +2,7 @@
 #Questor  
   
 ####__*Scan & Search text from hardcopy books and images!*__  
+Promotional Video is available on [Youtube](https://www.youtube.com/watch?v=YaVWCbv4lvM)  
   
   
 ###Description:ledger:    
