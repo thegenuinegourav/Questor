@@ -45,12 +45,20 @@ If you'd like to request a new functionality, feel free to do so by opening an i
   
   
 ###ScreenShots  
- 
   
   
+![Screenshot1](https://github.com/thegenuinegourav/Questor/blob/master/screenshots/Screenshot_2016-11-28-18-56-24.png)  
   
   
-
+![Screenshot2](https://github.com/thegenuinegourav/Questor/blob/master/screenshots/Screenshot_2016-11-28-18-56-59.png)  
+  
+  
+![Screenshot3](https://github.com/thegenuinegourav/Questor/blob/master/screenshots/Screenshot_2016-11-28-18-57-59.png)  
+  
+  
+![Screenshot4](https://github.com/thegenuinegourav/Questor/blob/master/screenshots/Screenshot_2016-11-28-18-58-26.png)  
+    
+  
 
 
 
