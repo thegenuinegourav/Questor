@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.android.gms.samples.vision.barcodereader.test">
+
+    <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="23" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="com.google.android.gms.samples.vision.barcodereader"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for com.google.android.gms.samples.vision.barcodereader"/>
+</manifest>
