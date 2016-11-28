@@ -1,7 +1,7 @@
 ![Questor Logo](/app/src/main/res/mipmap-hdpi/ic_launcher.png)  
 #Questor  
   
-####__*Scan & Search text from hardcopy books and images!*__  
+####__*Scan & Search text from hardcopy books and images! :book: :mag:*__  
 Promotional Video is available on [Youtube](https://www.youtube.com/watch?v=YaVWCbv4lvM)  
   
   
