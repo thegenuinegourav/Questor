@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\values-in\\values-in.xml",
+        "outputFile": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 210
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 318
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 441
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 543
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 648
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 735
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 839
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 955
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1037
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1116
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1202
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1305
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1414
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1515
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1619
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1727
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1835
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1958
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 2057
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 2166
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 2362
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 2490
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 2620
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 2837
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 3055
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 3184
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 3319
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 3567
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 3818
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 3941
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 4050
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 4245
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 4373
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 4587
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 4726
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 4900
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -695,7 +695,7 @@
                     "endOffset": 4994
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 5084
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -733,7 +733,7 @@
                     "endOffset": 5192
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-in\\values.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-in/values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -752,7 +752,7 @@
                     "endOffset": 5276
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -771,7 +771,7 @@
                     "endOffset": 5377
                 },
                 "from": {
-                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-in\\values-in.xml",
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-in/values-in.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
