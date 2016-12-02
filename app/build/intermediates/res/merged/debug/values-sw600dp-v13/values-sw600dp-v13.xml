@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <bool name="md_is_tablet">true</bool>
     <dimen name="abc_action_bar_content_inset_material">24dp</dimen>
     <dimen name="abc_action_bar_content_inset_with_nav">80dp</dimen>
     <dimen name="abc_action_bar_default_height_material">64dp</dimen>
