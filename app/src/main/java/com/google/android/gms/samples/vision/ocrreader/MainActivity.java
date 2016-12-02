@@ -223,7 +223,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 }
             }
         } else {
-            statusMessage.setText("Word Not Found");
+            statusMessage.setText("Not Found");
             statusMessage.setTextColor(Color.RED);
         }
         statusMessage.setVisibility(View.VISIBLE);
