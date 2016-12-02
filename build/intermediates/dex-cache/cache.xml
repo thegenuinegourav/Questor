@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="81d4b65d2f0c02eecb5d633d56bdcc719d9954bb">
+        sha1="f3ebe3be33f2b4a45cd316889fda4794cefaac0a">
         <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fb85584b91912c2c737352afd4b8b79e88a32480/classes.dex" />
     </item>
     <item
@@ -196,7 +196,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="7b5a4a05fbbadd95bc05883120b7f776a696efa6">
+        sha1="2ab2c4fe0a7a4a170ce277ea77d829629402bec6">
         <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_29e2702bf1d6fb2889c158aab5427d0502241ea4/classes.dex" />
     </item>
     <item

@@ -38,6 +38,7 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.view.View;
+import android.view.WindowManager;
 import android.widget.Toast;
 
 import com.google.android.gms.common.ConnectionResult;
@@ -81,12 +82,11 @@ public final class OcrCaptureActivity extends AppCompatActivity {
         mPreview = (CameraSourcePreview) findViewById(R.id.preview);
         mGraphicOverlay = (GraphicOverlay<OcrGraphic>) findViewById(R.id.graphicOverlay);
 
-        // read parameters from the intent used to launch the activity.
-//        boolean autoFocus = getIntent().getBooleanExtra(AutoFocus, false);
-//        boolean useFlash = getIntent().getBooleanExtra(UseFlash, false);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
+            getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_NAVIGATION);
+        }
 
-        // Check for the camera permission before accessing the camera.  If the
-        // permission is not granted yet, request permission.
         int rc = ActivityCompat.checkSelfPermission(this, Manifest.permission.CAMERA);
         if (rc == PackageManager.PERMISSION_GRANTED) {
 //            createCameraSource(autoFocus, useFlash);

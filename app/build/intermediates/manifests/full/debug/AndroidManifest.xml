@@ -27,7 +27,9 @@
 
         <activity android:name="com.google.android.gms.samples.vision.ocrreader.MainActivity" >
         </activity>
-        <activity android:name="com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity" >
+        <activity
+            android:name="com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity"
+            android:theme="@style/AppTheme.ActionBar.Transparent" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
