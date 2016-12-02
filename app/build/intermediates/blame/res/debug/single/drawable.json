@@ -16,6 +16,10 @@
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/notification_bg_low.xml"
     },
     {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/md_selector_dark.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_selector_dark.xml"
+    },
+    {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/drawable/design_ic_visibility.xml"
     },
@@ -26,6 +30,14 @@
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/md_item_selected_dark.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_item_selected_dark.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/md_btn_selected.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_btn_selected.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
@@ -72,12 +84,20 @@
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_text_cursor_material.xml"
     },
     {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/md_btn_selector_dark.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_btn_selector_dark.xml"
+    },
+    {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/md_transparent.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_transparent.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
@@ -100,12 +120,20 @@
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/md_selector.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_selector.xml"
+    },
+    {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/md_btn_selector.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_btn_selector.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
@@ -144,6 +172,10 @@
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/md_item_selected.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_item_selected.xml"
+    },
+    {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_btn_borderless_material.xml"
     },
@@ -170,6 +202,10 @@
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/md_btn_selected_dark.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_btn_selected_dark.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",

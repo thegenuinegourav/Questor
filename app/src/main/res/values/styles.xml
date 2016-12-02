@@ -16,4 +16,10 @@
         <item name="colorPrimary">@android:color/transparent</item>
     </style>
 
+    <style name="AlertDialogCustom" parent="@android:style/Theme.Dialog">
+        <item name="android:minWidth">250dp</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+
 </resources>

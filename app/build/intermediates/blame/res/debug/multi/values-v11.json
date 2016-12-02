@@ -295,8 +295,50 @@
                     "startLine": 60,
                     "startColumn": 4,
                     "startOffset": 4384,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 5418
+                },
+                "from": {
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5423,
+                    "endLine": 93,
+                    "endColumn": 12,
+                    "endOffset": 6439
+                },
+                "from": {
+                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1094,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 2110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6444,
                     "endColumn": 70,
-                    "endOffset": 4450
+                    "endOffset": 6510
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
@@ -311,11 +353,11 @@
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 4455,
+                    "startOffset": 6515,
                     "endColumn": 82,
-                    "endOffset": 4533
+                    "endOffset": 6593
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
@@ -330,12 +372,12 @@
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 4538,
-                    "endLine": 114,
+                    "startOffset": 6598,
+                    "endLine": 148,
                     "endColumn": 12,
-                    "endOffset": 8472
+                    "endOffset": 10532
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
@@ -351,12 +393,12 @@
             },
             {
                 "to": {
-                    "startLine": 115,
+                    "startLine": 149,
                     "startColumn": 4,
-                    "startOffset": 8477,
-                    "endLine": 168,
+                    "startOffset": 10537,
+                    "endLine": 202,
                     "endColumn": 12,
-                    "endOffset": 12554
+                    "endOffset": 14614
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
@@ -372,11 +414,11 @@
             },
             {
                 "to": {
-                    "startLine": 169,
+                    "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 12559,
+                    "startOffset": 14619,
                     "endColumn": 90,
-                    "endOffset": 12645
+                    "endOffset": 14705
                 },
                 "from": {
                     "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",

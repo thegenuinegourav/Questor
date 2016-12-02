@@ -2,14 +2,19 @@ package com.google.android.gms.samples.vision.ocrreader;
 
 import android.content.DialogInterface;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.view.ContextThemeWrapper;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.afollestad.materialdialogs.DialogAction;
+import com.afollestad.materialdialogs.MaterialDialog;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -52,20 +57,17 @@ public class MainActivity extends AppCompatActivity {
 
     public void doSearch(View view) {
 
-        AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setTitle("Search");
-
-        final EditText input = new EditText(this);
-        builder.setView(input);
-
-        builder.setPositiveButton("GO", new DialogInterface.OnClickListener() {
+        final MaterialDialog dialog = new MaterialDialog.Builder(this)
+                .customView(R.layout.dialog, false)
+                .show();
+        dialog.findViewById(R.id.dialog_go).setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(DialogInterface dialog, int which) {
+            public void onClick(View view) {
                 String inputText = "";
+                EditText input = (EditText) dialog.findViewById(R.id.input);
                 if (!input.getText().toString().equals(""))
-                    inputText = input.getText().toString();
-                String result = textValue.getText().toString().toLowerCase();
-
+                    inputText = input.getText().toString().toLowerCase();
+                String result = textValue.getText().toString();
                 if (isContain(result, inputText)) {
                     int counter = 0, pos = 0, counterForWords = 0;
                     for (int i = 0; i < result.indexOf(inputText); i++) {
@@ -74,31 +76,80 @@ public class MainActivity extends AppCompatActivity {
                             pos = i;
                         }
                     }
-
                     for (int i = pos; i < result.indexOf(inputText); i++) {
                         if (result.charAt(i) == ' ') {
                             counterForWords++;
                         }
                     }
-
                     counter++;
                     counterForWords++;
-
                     Toast.makeText(MainActivity.this, "Word present at line " + counter + ", position " + counterForWords, Toast.LENGTH_SHORT).show();
-
                 } else {
                     Toast.makeText(MainActivity.this, "Not Found", Toast.LENGTH_SHORT).show();
                 }
             }
         });
-        builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                dialog.cancel();
-            }
-        });
+        dialog.findViewById(R.id.dialog_cancel).
 
-        builder.show();
+                setOnClickListener(new View.OnClickListener() {
+                                       @Override
+                                       public void onClick(View view) {
+                                           dialog.dismiss();
+                                       }
+                                   }
+
+                );
+
+//        AlertDialog.Builder builder = new AlertDialog.Builder(this, R.style.AlertDialogCustom); //new ContextThemeWrapper(this, android.R.style.Theme_Dialog));
+//        builder.setTitle("Search");
+//
+////        final EditText input = (EditText)findViewById(R.id.input);
+////        builder.setView(R.layout.dialog);
+//
+//        final EditText input = new EditText(this);
+//        builder.setView(input);
+//
+//        builder.setPositiveButton("GO", new DialogInterface.OnClickListener() {
+//            @Override
+//            public void onClick(DialogInterface dialog, int which) {
+//                String inputText = "";
+//                if (!input.getText().toString().equals(""))
+//                    inputText = input.getText().toString().toLowerCase();
+//                String result = textValue.getText().toString();
+//
+//                if (isContain(result, inputText)) {
+//                    int counter = 0, pos = 0, counterForWords = 0;
+//                    for (int i = 0; i < result.indexOf(inputText); i++) {
+//                        if (result.charAt(i) == '\n') {
+//                            counter++;
+//                            pos = i;
+//                        }
+//                    }
+//
+//                    for (int i = pos; i < result.indexOf(inputText); i++) {
+//                        if (result.charAt(i) == ' ') {
+//                            counterForWords++;
+//                        }
+//                    }
+//
+//                    counter++;
+//                    counterForWords++;
+//
+//                    Toast.makeText(MainActivity.this, "Word present at line " + counter + ", position " + counterForWords, Toast.LENGTH_SHORT).show();
+//
+//                } else {
+//                    Toast.makeText(MainActivity.this, "Not Found", Toast.LENGTH_SHORT).show();
+//                }
+//            }
+//        });
+//        builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+//            @Override
+//            public void onClick(DialogInterface dialog, int which) {
+//                dialog.cancel();
+//            }
+//        });
+//
+//        builder.show();
     }
 
 }
