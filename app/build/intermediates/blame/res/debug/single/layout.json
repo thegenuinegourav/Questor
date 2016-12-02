@@ -16,10 +16,6 @@
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/toolbar.xml",
-        "source": "/Users/Gurpreet/StudioProjects/Questor/app/src/main/res/layout/toolbar.xml"
-    },
-    {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_menu_item_action_area.xml"
     },

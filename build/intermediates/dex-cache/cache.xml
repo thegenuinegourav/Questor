@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_659b76fd38176f3dc4299e7b20788aae539dc404/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -21,12 +30,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_2d0ca4ae01faf6edfe4314ae4c7b858b86f93fb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7c3e6684fd38fc5341744e33ebd01e2505feee43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
         <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_f823432f021b63092d7381b1cd6caef7095eb868/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_71af656b03eab7f31ea014db1d428b960370e9ea/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,12 +75,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_a242e075bd47e14789401b42febe148c3592ff43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_7b6643e2ba736db0d1a406c2e6d7670db16ad105/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="670df81539ab71918d49b186598b7eff08ef6563">
         <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_a3a8facce4f2729657fa9d69b667ffcab0d04c0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_85c4c5a233455da13ed2aa21aa03700595a1d2ea/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -70,7 +133,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="f3ebe3be33f2b4a45cd316889fda4794cefaac0a">
+        sha1="0a5934dbdbc2a80d1bd9e7ee812d4059723c70a2">
         <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fb85584b91912c2c737352afd4b8b79e88a32480/classes.dex" />
     </item>
     <item
@@ -93,12 +156,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d95bc7cec26936c730b5fa4fa9502130a6bc360b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="8a372c4191f80489770a231f7be4820b204b886a">
         <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_1ee010a9903b54062556b357a0313d9c07f98f6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2ab2c4fe0a7a4a170ce277ea77d829629402bec6">
+        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_29e2702bf1d6fb2889c158aab5427d0502241ea4/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -117,87 +198,6 @@
         revision="24.0.2"
         sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
         <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_175ffc3afb06808623577ef16cb25b3ce9bf1ee5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_659b76fd38176f3dc4299e7b20788aae539dc404/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
-        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_2d0ca4ae01faf6edfe4314ae4c7b858b86f93fb8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7c3e6684fd38fc5341744e33ebd01e2505feee43/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_71af656b03eab7f31ea014db1d428b960370e9ea/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
-        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_a242e075bd47e14789401b42febe148c3592ff43/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_7b6643e2ba736db0d1a406c2e6d7670db16ad105/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
-        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_85c4c5a233455da13ed2aa21aa03700595a1d2ea/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d95bc7cec26936c730b5fa4fa9502130a6bc360b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2ab2c4fe0a7a4a170ce277ea77d829629402bec6">
-        <dex dex="/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_29e2702bf1d6fb2889c158aab5427d0502241ea4/classes.dex" />
     </item>
     <item
         is-multidex="true"
