@@ -19,6 +19,7 @@
             android:layout_gravity="start"
             android:text="@string/app_name"
             android:textSize="22sp"
+            android:textColor="@android:color/white"
             android:textStyle="bold" />
     </android.support.v7.widget.Toolbar>
 
@@ -46,11 +47,11 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
         android:background="@color/colorAccent"
+        android:onClick="doSearch"
         android:src="@drawable/ic_search_white_24dp"
         android:text="@string/read_text"
         app:elevation="@dimen/fab_elevation"
         app:fabSize="auto"
-        android:onClick="doSearch"
         app:pressedTranslationZ="@dimen/fab_pressed"
         app:rippleColor="@android:color/white" />
 
