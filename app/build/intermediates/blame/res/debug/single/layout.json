@@ -28,12 +28,12 @@
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/md_stub_actionbuttons.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/layout/md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
@@ -172,20 +172,20 @@
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_icon_group.xml"
-    },
-    {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/layout/md_dialog_progress_indeterminate_horizontal.xml"
     },
     {
-        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
-        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_text_input_password_icon.xml"
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_icon_group.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/md_dialog_list.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/layout/md_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_text_input_password_icon.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
@@ -244,12 +244,12 @@
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/layout/md_dialog_progress_indeterminate.xml"
     },
     {
-        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
-        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_header.xml"
-    },
-    {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/md_dialog_custom.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/layout/md_dialog_custom.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout/design_navigation_item_header.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
