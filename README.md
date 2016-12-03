@@ -44,10 +44,10 @@ If you'd like to request a new functionality, feel free to do so by opening an i
   
 
 ###Contributors
-[Gurpreet Singh](https://github.com/GurpreetSK95)
+1. [Gurpreet Singh](https://github.com/GurpreetSK95)
 
 
-###ScreenShots  
+###Screenshots
 
 <div align="center">
 <img width="45%" src="/screenshots/device-2016-12-03-122953.png"</img>
