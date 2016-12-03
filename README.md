@@ -55,7 +55,7 @@ If you'd like to request a new functionality, feel free to do so by opening an i
 </div>
 
 <div align="center">
-<img width="45%" src="/screenshots/device-2016-12-03-122429.png"</img>
+<img width="45%" src="/screenshots/device-2016-12-03-122529.png"</img>
 <img width="45%" src="/screenshots/device-2016-12-03-122627.png"</img>
 </div>
 

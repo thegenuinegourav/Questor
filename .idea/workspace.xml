@@ -118,8 +118,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+            <state relative-caret-position="629">
+              <caret line="57" column="59" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -2481,7 +2481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1480748430928</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="- update readme.md">
+      <created>1480748979605</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1480748979605</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2559,7 +2566,8 @@
     <MESSAGE value="- added new launcher icons, search icon" />
     <MESSAGE value="- added new screenshots" />
     <MESSAGE value="- added new screenshot" />
-    <option name="LAST_COMMIT_MESSAGE" value="- added new screenshot" />
+    <MESSAGE value="- update readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="- update readme.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2958,8 +2966,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        <state relative-caret-position="629">
+          <caret line="57" column="59" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
           <folding />
         </state>
       </provider>
