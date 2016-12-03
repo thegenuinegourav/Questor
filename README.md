@@ -19,7 +19,6 @@ Step 4: Then search for any text that you want, and Line & Word Number (where th
 ###Tools & References:wrench:  
 1. [Text Recognition Api](https://developers.google.com/vision/text-overview)
 2. [Android OCR Library](https://www.abbyy.com/en-apac/mobile-ocr/android-ocr/)
- 
   
   
 ### Development  
@@ -43,22 +42,20 @@ If you find a bug (the website couldn't handle the query and / or gave irrelevan
   
 If you'd like to request a new functionality, feel free to do so by opening an issue [here](https://github.com/thegenuinegourav/Questor/issues/new) including some sample queries and their corresponding results.  
   
-  
+
+###Contributors
+[Gurpreet Singh](https://github.com/GurpreetSK95)
+
+
 ###ScreenShots  
-  
-  
-![Screenshot1](https://github.com/thegenuinegourav/Questor/blob/master/screenshots/Screenshot_2016-11-28-18-56-24.png)  
-  
-  
-![Screenshot2](https://github.com/thegenuinegourav/Questor/blob/master/screenshots/Screenshot_2016-11-28-18-56-59.png)  
-  
-  
-![Screenshot3](https://github.com/thegenuinegourav/Questor/blob/master/screenshots/Screenshot_2016-11-28-18-57-59.png)  
-  
-  
-![Screenshot4](https://github.com/thegenuinegourav/Questor/blob/master/screenshots/Screenshot_2016-11-28-18-58-26.png)  
-    
-  
 
+<div align="center">
+<img width="45%" src="/screenshots/device-2016-12-03-122953.png"</img>
+<img width="45%" src="/screenshots/device-2016-12-03-122450.png"</img>
+</div>
 
+<div align="center">
+<img width="45%" src="/screenshots/device-2016-12-03-122429.png"</img>
+<img width="45%" src="/screenshots/device-2016-12-03-122627.png"</img>
+</div>
 
