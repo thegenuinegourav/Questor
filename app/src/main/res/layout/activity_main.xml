@@ -1,58 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/white"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="#424242"
     tools:context="com.google.android.gms.samples.vision.ocrreader.MainActivity">
 
-    <android.support.v7.widget.Toolbar
-        android:layout_width="match_parent"
-        android:layout_height="?actionBarSize"
-        android:background="@color/ColorPrimary">
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar">
+    </include>
 
-        <TextView
-            android:id="@+id/toolbar"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="start"
-            android:text="@string/app_name"
-            android:textSize="22sp"
-            android:textColor="@android:color/white"
-            android:textStyle="bold" />
-    </android.support.v7.widget.Toolbar>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/ocr_header"
+        android:id="@+id/status_message"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#fff"
+        android:visibility="gone"
+        android:textSize="17sp"
+        android:layout_below="@+id/toolbar"
+        android:layout_centerHorizontal="true"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_corners"
+        android:layout_margin="30dp"
+        android:layout_below="@+id/status_message"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_above="@+id/read_text">
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_margin="@dimen/activity_horizontal_margin">
+        android:layout_height="match_parent">
 
         <TextView
-            android:id="@+id/text_value"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginTop="?attr/actionBarSize"
-            android:text="No text detected"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:textColor="@color/colorTextPrimary"
-            android:textSize="@dimen/textsize_normal" />
+            android:textSize="15sp"
+            android:layout_margin="10dp"
+            android:text="No text detected"
+            android:textColor="#9E9E9E"
+            android:id="@+id/text_value" />
     </ScrollView>
 
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/read_text"
+    </LinearLayout>
+
+    <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom|end"
-        android:layout_margin="@dimen/fab_margin"
-        android:background="@color/colorAccent"
-        android:onClick="doSearch"
-        android:src="@drawable/ic_search_white_24dp"
+        android:layout_margin="10dp"
         android:text="@string/read_text"
-        app:elevation="@dimen/fab_elevation"
-        app:fabSize="auto"
-        app:pressedTranslationZ="@dimen/fab_pressed"
-        app:rippleColor="@android:color/white" />
+        android:id="@+id/read_text"
+        android:background="@drawable/gradient_color_button"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
 
-</FrameLayout>
+</RelativeLayout>

@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.google.android.gms.samples.vision.barcodereader.test">
 
-    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="25" />
+    <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="23" />
 
     <application>
         <uses-library android:name="android.test.runner" />

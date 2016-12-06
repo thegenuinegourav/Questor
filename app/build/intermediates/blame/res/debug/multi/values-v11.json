@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "outputFile": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 469
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 894
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 1322
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -75,7 +75,7 @@
                     "endOffset": 1748
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -96,7 +96,7 @@
                     "endOffset": 2175
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -117,7 +117,7 @@
                     "endOffset": 2600
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -137,7 +137,7 @@
                     "endOffset": 2689
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -156,7 +156,7 @@
                     "endOffset": 2790
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -175,7 +175,7 @@
                     "endOffset": 2893
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -195,7 +195,7 @@
                     "endOffset": 3301
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -216,7 +216,7 @@
                     "endOffset": 3721
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -237,7 +237,7 @@
                     "endOffset": 4143
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 4250
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 4379
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -295,53 +295,11 @@
                     "startLine": 60,
                     "startColumn": 4,
                     "startOffset": 4384,
-                    "endLine": 76,
-                    "endColumn": 12,
-                    "endOffset": 5418
-                },
-                "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 18,
-                        "endColumn": 12,
-                        "endOffset": 1089
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 77,
-                    "startColumn": 4,
-                    "startOffset": 5423,
-                    "endLine": 93,
-                    "endColumn": 12,
-                    "endOffset": 6439
-                },
-                "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1094,
-                        "endLine": 35,
-                        "endColumn": 12,
-                        "endOffset": 2110
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 94,
-                    "startColumn": 4,
-                    "startOffset": 6444,
                     "endColumn": 70,
-                    "endOffset": 6510
+                    "endOffset": 4450
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -353,14 +311,14 @@
             },
             {
                 "to": {
-                    "startLine": 95,
+                    "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 6515,
+                    "startOffset": 4455,
                     "endColumn": 82,
-                    "endOffset": 6593
+                    "endOffset": 4533
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -372,62 +330,62 @@
             },
             {
                 "to": {
-                    "startLine": 96,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 6598,
-                    "endLine": 148,
+                    "startOffset": 4538,
+                    "endLine": 114,
                     "endColumn": 12,
-                    "endOffset": 10532
+                    "endOffset": 8467
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
                         "startOffset": 4538,
                         "endLine": 114,
                         "endColumn": 12,
-                        "endOffset": 8472
+                        "endOffset": 8467
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 149,
+                    "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 10537,
-                    "endLine": 202,
+                    "startOffset": 8472,
+                    "endLine": 168,
                     "endColumn": 12,
-                    "endOffset": 14614
+                    "endOffset": 12541
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 115,
                         "startColumn": 4,
-                        "startOffset": 8477,
+                        "startOffset": 8472,
                         "endLine": 168,
                         "endColumn": 12,
-                        "endOffset": 12554
+                        "endOffset": 12541
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 203,
+                    "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 14619,
+                    "startOffset": 12546,
                     "endColumn": 90,
-                    "endOffset": 14705
+                    "endOffset": 12632
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v11/values-v11.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
-                        "startOffset": 12559,
+                        "startOffset": 12546,
                         "endColumn": 90,
-                        "endOffset": 12645
+                        "endOffset": 12632
                     }
                 }
             }
