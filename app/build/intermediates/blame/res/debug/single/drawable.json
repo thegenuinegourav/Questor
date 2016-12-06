@@ -92,12 +92,12 @@
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/md_transparent.xml",
-        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_transparent.xml"
-    },
-    {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/md_transparent.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_transparent.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
@@ -200,12 +200,12 @@
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/drawable/design_fab_background.xml"
     },
     {
-        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/md_btn_selected_dark.xml",
-        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_btn_selected_dark.xml"
-    },
-    {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/md_btn_selected_dark.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_btn_selected_dark.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",

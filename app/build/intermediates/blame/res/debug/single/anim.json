@@ -12,12 +12,12 @@
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/anim/popup_exit.xml",
-        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/anim/popup_exit.xml"
-    },
-    {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/anim/popup_exit.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/anim/popup_exit.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
@@ -60,16 +60,16 @@
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/anim/design_fab_in.xml"
     },
     {
+        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/anim/design_snackbar_in.xml"
+    },
+    {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/anim/decelerate_cubic.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/anim/decelerate_cubic.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/anim/popup_enter.xml",
         "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/anim/popup_enter.xml"
-    },
-    {
-        "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
-        "source": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/anim/design_snackbar_in.xml"
     },
     {
         "merged": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
