@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml",
+        "outputFile": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\values-kk\\values-kk.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 205
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 390
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 518
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 647
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 852
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 1058
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 1186
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 1324
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1568
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1814
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1940
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 2048
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 2236
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 2367
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 2579
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 2715
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 2902
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 2995
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 3084
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 3191
                 },
                 "from": {
-                    "file": "/Users/Gurpreet/StudioProjects/Questor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/values-kk/values.xml",
+                    "file": "D:\\GouravPrograms\\GitProjects\\android-vision\\visionSamples\\ocr-reader\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\values-kk\\values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
