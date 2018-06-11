@@ -39,7 +39,7 @@ To fix a bug or enhance an existing module, follow these steps:
   
 ### Interested?  
   
-If you find a bug (the website couldn't handle the query and / or gave irrelevant results), kindly open an issue [here](https://github.com/thegenuinegourav/Questor/issues/new) by including your search query and the expected result.  
+If you find a bug (the app couldn't handle the query and / or gave irrelevant results), kindly open an issue [here](https://github.com/thegenuinegourav/Questor/issues/new) by including your search query and the expected result.  
   
 If you'd like to request a new functionality, feel free to do so by opening an issue [here](https://github.com/thegenuinegourav/Questor/issues/new) including some sample queries and their corresponding results.  
   
